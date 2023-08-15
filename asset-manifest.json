@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Children-Health-Tracker/static/css/main.fd94b122.css",
+    "main.js": "/Children-Health-Tracker/static/js/main.5c6db6d5.js",
+    "static/media/logo.png": "/Children-Health-Tracker/static/media/logo.c6e0c8aaf41356778f3e.png",
+    "index.html": "/Children-Health-Tracker/index.html",
+    "main.fd94b122.css.map": "/Children-Health-Tracker/static/css/main.fd94b122.css.map",
+    "main.5c6db6d5.js.map": "/Children-Health-Tracker/static/js/main.5c6db6d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd94b122.css",
+    "static/js/main.5c6db6d5.js"
+  ]
+}
